@@ -18,7 +18,7 @@ The platform allows users to browse pets, apply real-time filters, and send adop
 ## Usage
 1. Clone repo:  
    ```bash
-   git clone https://github.com/yourusername/pet-adoption-portal.git
+   git clone https://github.com/piriyajeishree410/pet-shelter-project.git
 ````
 
 2. Install dependencies:
