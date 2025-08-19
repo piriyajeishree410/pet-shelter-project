@@ -15,9 +15,6 @@ The platform allows users to browse pets, apply real-time filters, and send adop
 - **Database**: MySQL 8.0  
 - **Security**: AES-256 encryption, JWT  
 
-## Screenshots
-*(Add screenshots here if available — homepage, adoption form, login page, etc.)*
-
 ## Usage
 1. Clone repo:  
    ```bash
